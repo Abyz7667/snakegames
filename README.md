@@ -1,1 +1,1 @@
-# snakegames
+# Best Snake games
